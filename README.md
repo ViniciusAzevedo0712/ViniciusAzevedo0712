@@ -4,7 +4,7 @@
 
 ### Dados • BI • Machine Learning
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Construindo+minha+jornada+na+%C3%A1rea+de+Dados;Python+%7C+SQL+%7C+Pandas;Aprendendo+um+passo+de+cada+vez" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Construindo+minha+jornada+na+%C3%A1rea+de+Dados;Python+%7C+SQL+%7C+Pandas;Aprendendo+um+passo+de+cada+vez" alt="Typing SVG" />
 
 </div>
 
@@ -33,9 +33,9 @@ Este perfil acompanha minha evolução na área de tecnologia — dos fundamento
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 
 </div>
 
@@ -45,7 +45,7 @@ Este perfil acompanha minha evolução na área de tecnologia — dos fundamento
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ViniciusAzevedo0712&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ViniciusAzevedo0712&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -55,8 +55,8 @@ Este perfil acompanha minha evolução na área de tecnologia — dos fundamento
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="170"/>
-<img src="./profile/top-langs.svg" height="170"/>
+<img src="./profile/stats.svg" height="170" alt="Estatísticas do GitHub"/>
+<img src="./profile/top-langs.svg" height="170" alt="Linguagens mais utilizadas"/>
 
 </div>
 
@@ -66,13 +66,25 @@ Este perfil acompanha minha evolução na área de tecnologia — dos fundamento
 
 <div align="center">
 
+<img src="./banner-contribuicoes.png" width="100%" alt="Painel de contribuições - Vinicius Azevedo"/>
+
+<br>
+
 <picture>
- <div align="center">
-
-<img src="./banner-contribuicoes.png" width="100%" alt="Contribuições - Vinicius Azevedo"/>
-
-</div>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ViniciusAzevedo0712/ViniciusAzevedo0712/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ViniciusAzevedo0712/ViniciusAzevedo0712/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Animação das contribuições no GitHub"
+    src="https://raw.githubusercontent.com/ViniciusAzevedo0712/ViniciusAzevedo0712/output/github-contribution-grid-snake.svg"
+  />
 </picture>
+
 </div>
 
 ---
@@ -82,7 +94,7 @@ Este perfil acompanha minha evolução na área de tecnologia — dos fundamento
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vinicius-azevedo-ads/">
-<img src="https://img.shields.io/badge/LinkedIn-Vinicius%20Azevedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Vinicius%20Azevedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>

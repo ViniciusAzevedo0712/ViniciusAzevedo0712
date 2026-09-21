@@ -22,7 +22,6 @@ Este perfil acompanha minha evolução na área de tecnologia — dos fundamento
 - 📊 Foco em **Dados e Business Intelligence**
 - 🤖 Objetivo de longo prazo: **Machine Learning**
 - 🐍 Estudando **Python, SQL e Pandas**
-- 📚 Novas tecnologias serão adicionadas conforme avanço nos estudos
 
 ---
 
